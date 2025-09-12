@@ -1,4 +1,4 @@
-# Ejercicios de Machine Learning (Fútbol) ⚽️🧠
+# Análisis de Datos en el Mundo del Fútbol ⚽️🧠
 
 Dos notebooks sencillos para practicar *Machine Learning* con datos de fútbol. Están preparados para abrirse en **Google Colab** y ejecutarse **sin configurar nada**.
 
