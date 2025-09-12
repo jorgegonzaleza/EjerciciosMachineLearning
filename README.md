@@ -54,5 +54,3 @@ Dos notebooks sencillos para practicar *Machine Learning* con datos de fútbol. 
 * Gmail: jorgegonzaleza@gmail.com
 
 
-Los notebooks están configurados para ejecutarse tal cual en Colab (descarga/lectura de datos automatizada).
-
